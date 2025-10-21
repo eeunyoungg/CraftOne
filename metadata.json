@@ -1,0 +1,5 @@
+{
+  "name": "Craftone",
+  "description": "Craftone is a comprehensive internal work management tool for Craft Studio, designed to track planning, execution, and resource allocation. It features dashboards, work logs, project management, resource heatmaps, and performance evaluations, with a UI inspired by Jira and Confluence.",
+  "requestFramePermissions": []
+}
